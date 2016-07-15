@@ -47,4 +47,4 @@ If you edit mymodule.py and remove the b from "boto3" you will see the commands 
     ________________________________ summary ________________________________
       py27: commands succeeded
       congratulations :)
-  mbp0 pytest_test[master+*] $
+    mbp0 pytest_test[master+*] $
